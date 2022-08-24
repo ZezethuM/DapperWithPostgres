@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLB+wUM8QP5IoIHVTYbuFdxWGtEUBMF/TBbuM8RfC/LwM3wqLmfdkZ3NonRmPDLDASPraZpQOiH7QZPV8At+Vg==",
+  "success": true,
+  "projectFilePath": "/home/codex/practise/firstdb/firstdb.csproj",
+  "expectedPackageFiles": [
+    "/home/codex/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/home/codex/.nuget/packages/npgsql/6.0.6/npgsql.6.0.6.nupkg.sha512",
+    "/home/codex/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
